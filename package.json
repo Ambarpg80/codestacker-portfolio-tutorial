@@ -1,0 +1,19 @@
+{
+  "name": "codestacker-portfolio-tutorial",
+  "version": "1.0.0",
+  "description": "codestacker-portfolio-tutorial for Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ambarpg80/codestacker-portfolio-tutorial.git"
+  },
+  "author": "Ambar Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ambarpg80/codestacker-portfolio-tutorial/issues"
+  },
+  "homepage": "https://github.com/Ambarpg80/codestacker-portfolio-tutorial#readme"
+}
